@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **GMI Algerie**
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning and transitioning into **AI**, with focus on **Machine Learning** and **Deep Learning**
 
 - 📫 How to reach me **bilal.dz0211@gmail.com**
 
