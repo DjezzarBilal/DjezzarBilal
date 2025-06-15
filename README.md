@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
-<h3 align="center">A passionate Web developer (Mern Stack) Exploring AI and Machine Learning </h3>
+<h3 align="center"> SOFTWARE ENGINEER </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/bileldjezzar" target="blank"><img src="https://img.shields.io/twitter/follow/bileldjezzar?logo=twitter&style=for-the-badge" alt="bileldjezzar" /></a> </p>
 
